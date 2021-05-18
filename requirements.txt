@@ -1,0 +1,7 @@
+python_binance==1.0.1
+tweepy==3.10.0
+pandas==1.2.4
+requests==2.25.1
+textblob==0.15.3
+binance==0.3
+python-dotenv==0.17.1
